@@ -1,6 +1,6 @@
 import React from 'react';
 import classNames from 'classnames';
-import styles from './GridContainer.module.scss';
+import styles from './GridContainer.module.css';
 
 type Props = {
   className?: string;
